@@ -32,4 +32,3 @@ Users can enter values into five different **TextBoxes**, and the data will be c
 ---
 ✨ This project is mainly educational and can be extended with new features such as validation, database integration, or file export.
 
-✨ This project is mainly educational and can be extended with new features such as validation, database integration, or file export.
